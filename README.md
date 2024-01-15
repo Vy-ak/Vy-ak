@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Vy-ak
 - 👀 I’m interested in C++ related thing
 - 🌱 I’m currently learning C++, and python language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me verdy.akbar@gmail.com
-
 - laptop broken cant code :((
 
 <!---
