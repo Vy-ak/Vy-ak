@@ -4,7 +4,7 @@ I'm an undergraduate Computer Science student passionate about crafting clean, e
 
 ### About Me
 
-* **Always Learning & Teaching:** I strongly believe that the most effective way to master a skill is to teach it. Whether I'm structuring learning modules, facilitating tech classes, or mentoring peers, I thrive in collaborative environments where knowledge is shared.
+* **Always Learning & Teaching:** the most effective way to master a skill is to teach it. Whether I'm structuring learning modules, facilitating tech classes, or mentoring peers, I thrive in collaborative environments where knowledge is shared.
 * **Current Focus:** I am currently diving deep into **Full-Stack Web & App Development**, constantly challenging myself to understand the architecture behind efficient applications. I'm also actively exploring the Apple ecosystem to broaden my development capabilities.
 *  **Philosophy:** I love improvising and improving upon existing ideas. I'm always eager to connect with new people, exchange perspectives, and collaborate on projects that push technological boundaries.
 
