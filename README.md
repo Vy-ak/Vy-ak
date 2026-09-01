@@ -1,4 +1,4 @@
-# Hi there! I'm Verdy
+# Hi there! I'm Vy
 
 I'm an undergraduate Computer Science student passionate about crafting clean, efficient, and innovative solutions. I believe in a minimalist approach to software engineering—taking complex systems and simplifying them into functional, user-centric web and mobile applications. 
 
